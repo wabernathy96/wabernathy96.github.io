@@ -1,0 +1,119 @@
+/* css for index.html below */
+
+body {
+    width: 960px;
+    background-image: url("./assets/images/circles-light.png")
+}
+
+header {
+    clear: both;
+    width: 100%; 
+    border-bottom: 3px solid #ebebeb;
+    height: 50px;
+    background-color: white;
+}
+
+.title {
+    text-align: center;
+    float: left;
+    border: 5px;
+    background-color: #4aaa54;
+    width: 33%;
+    margin: 10px 0px 30px 20px;
+}
+
+.pagelinks {
+    margin: 20px 50px 0 0;
+    float: right;
+    color: #ebebeb;
+}
+
+.pagelinks:visited {
+    color: #ebebeb;
+}
+
+.about {
+    
+}
+
+
+.port {
+
+}
+
+.cont {
+
+}
+
+.aboutme {
+    border: 10px solid black;
+    margin: 15px 15px 15px 0px;
+    width: 650px;
+    height: 260px;
+    
+}
+
+.bio_title {
+   
+}
+
+.selfie {
+    float: left;
+}
+
+.bio {
+    border: 10px solid green;
+    float: left;
+    width: 66%;
+
+}
+
+.aside {
+    width: 28%;
+    float: right;
+    border: 10px solid springgreen;
+    
+}
+
+.connect {
+    text-align: center;
+}
+
+.git {
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin: 0 50px 0 5px;
+    
+}
+
+.linked {
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin: 0 0px 0 0;
+
+}
+
+.stack {
+    width: 50px;
+    height: 50px;
+    align-content: center;
+    float: right;
+    margin: 0 5px 0 0; 
+
+}
+
+.footer {
+    margin: 20px 0 0 0;
+    border: 10px solid rebeccapurple;
+    bottom: 0;
+    position: absolute;
+    width: 960px;
+    height: 50px;
+}
+
+.copyright {
+    text-align: center;
+}
+

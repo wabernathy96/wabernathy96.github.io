@@ -1,2 +1,2 @@
-# wabernathy96.github.io
-testing wabernathy96.github.io
+# Basic-Portfolio
+Homework 01_2 - Basic Portfolio
